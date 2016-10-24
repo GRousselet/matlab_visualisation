@@ -1,5 +1,5 @@
 function shift_fig(xd, yd, delta, deltaCI,x,y,ind,med)
-% shift_fig(xd, delta, deltaCI,ind)
+% shift_fig(xd, yd, delta, deltaCI,x,y,ind,med)
 % Plots a shift function using the outputs xd, delta and deltaCI from either
 % shifthd, shiftdhd, shifthd_pbci, or shiftdhd_pbci.
 % 
